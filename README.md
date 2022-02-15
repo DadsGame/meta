@@ -19,6 +19,11 @@ The main branch will be used for releases.
 
 App deployment will be made on [Clever Cloud](https://clever-cloud.com).
 
+# Versioning
+
+* We do use the semver standard to version our app
+
 # Useful links
 
 * [Gitmoji](https://gitmoji.dev)
+* [Semver](https://semver.org)
