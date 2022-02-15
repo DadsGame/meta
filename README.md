@@ -23,6 +23,10 @@ App deployment will be made on [Clever Cloud](https://clever-cloud.com).
 
 * We do use the semver standard to version our app
 
+# ADR
+
+* We shall make keep track and make ADRs when there's a big software or architectural decision
+
 # Useful links
 
 * [Gitmoji](https://gitmoji.dev)
