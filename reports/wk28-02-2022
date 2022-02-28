@@ -1,0 +1,9 @@
+# 28/02/2022
+## business api
+* configuration de la DB locale
+* création d'une simple application REST avec les entités correspondant à la DB
+* mise en place de la première relation many to many reliant les jeux avec les plateformes
+
+## back to back
+* implementation (en cours) des endpoints steam
+* travail sur la mise en cache de requête
