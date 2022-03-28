@@ -31,3 +31,6 @@ App deployment will be made on [Clever Cloud](https://clever-cloud.com).
 
 * [Gitmoji](https://gitmoji.dev)
 * [Semver](https://semver.org)
+--
+* [DB Diagram](https://dbdiagram.io/d/620bbbb6485e433543b6a6a7)
+* [UI Mockup](https://www.figma.com/file/qYoF81Ty79jiHSsxjcYx6Z/Disney-Plush%2B-(Community)?node-id=0%3A1)
