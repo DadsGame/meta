@@ -19,6 +19,13 @@ The main branch will be used for releases.
 
 App deployment will be made on [Clever Cloud](https://clever-cloud.com).
 
+# Run local
+
+Follow the Readme in the following repository
+* [https://github.com/DadsGame/gametracker](https://github.com/DadsGame/gametracker)
+* [https://github.com/DadsGame/backtoback](https://github.com/DadsGame/backtoback)
+* [https://github.com/DadsGame/front](https://github.com/DadsGame/front)
+
 # Versioning
 
 * We do use the semver standard to version our app
@@ -31,6 +38,17 @@ App deployment will be made on [Clever Cloud](https://clever-cloud.com).
 
 * [Gitmoji](https://gitmoji.dev)
 * [Semver](https://semver.org)
---
 * [DB Diagram](https://dbdiagram.io/d/620bbbb6485e433543b6a6a7)
 * [UI Mockup](https://www.figma.com/file/qYoF81Ty79jiHSsxjcYx6Z/Disney-Plush%2B-(Community)?node-id=0%3A1)
+
+### Authors
+
+* [@Galimede](https://github.com/Galimede) (Mathieu Degand)
+* [@Skiadram](https://github.com/Skiadram) (Neel Coffin)
+
+### Work distribution
+| **Repository** | **Neel** | **Mathieu** |
+|----------------|----------|-------------|
+| back to back   | 0        | 100         |
+| gametracker    | 65       | 35          |
+| front          | 50       | 50          |
