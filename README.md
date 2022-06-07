@@ -1,3 +1,8 @@
+# Description
+A long time ago in a galaxy away, far far away there was a dad who loved playing video games. 
+To keep track of the games he played, finished or not he kept a record of all of them in an excel file where he put every game he has done and the state he has left it in (started, won’t finish, finished) and if he bought it the price point at the time being and the amount the game was sold so that he could buy another game. To improve readability the games were separated into pages representing the platform of the game. His son was aware of this excel file, but he was also a student in computer science and thought it would be cool to automate some things and put other features on the table so that it doesn’t only replace the excel file. This story now is yet to come.
+
+
 # Commit and branches convention
 
 ## Commit
