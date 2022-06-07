@@ -17,7 +17,7 @@ The main branch will be used for releases.
 
 # Deployment
 
-App deployment will be made on [Clever Cloud](https://clever-cloud.com).
+App is deployed on Clever Cloud at [https://app-a44cee5f-7e8d-476f-b6ce-16a019ac35c7.cleverapps.io/](https://app-a44cee5f-7e8d-476f-b6ce-16a019ac35c7.cleverapps.io/).
 
 # Run local
 
